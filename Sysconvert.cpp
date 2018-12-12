@@ -38,7 +38,7 @@ void bracketMatching(char *str) {
 
 	char currentNeed = 0;
 
-	for (int i = 0; i < strlen(str); i++) {
+	for (unsigned int i = 0; i < strlen(str); i++) {
 		if (str[i] != currentNeed) {
 			pStack->push(&str[i]);
 			switch (str[i]) {
