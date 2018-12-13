@@ -156,6 +156,8 @@
     <ClInclude Include="Coordinate.h" />
     <ClInclude Include="List.h" />
     <ClInclude Include="ListDef.h" />
+    <ClInclude Include="Map.h" />
+    <ClInclude Include="MapDef.h" />
     <ClInclude Include="MyStack.h" />
     <ClInclude Include="MyStackDef.h" />
     <ClInclude Include="Node.h" />

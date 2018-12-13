@@ -63,6 +63,12 @@
     <ClInclude Include="AVLDef.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MapDef.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
